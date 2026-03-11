@@ -1,8 +1,8 @@
 @echo off
 cd /d "%~dp0"
-set /p msg=输入提交说明: 
+set /p msg=description: 
 git add .
 git commit -m "%msg%"
 git push
-echo 推送完成
+echo done
 pause
