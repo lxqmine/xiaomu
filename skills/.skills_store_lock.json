@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "cn-economy-news": {
+      "name": "中国官方经济资讯",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=cn-economy-news",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "jimeng-generator": {
+      "name": "jimeng generator",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=jimeng-generator",
+      "source": "skillhub",
+      "version": "0.1.1"
+    }
+  }
+}
