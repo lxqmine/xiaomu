@@ -12,7 +12,7 @@
 ### 1. master_skills 文件变化
 - 目录：`/root/.openclaw/workspace/master_skills/`
 - 检测：新文件、修改的文件
-- 状态文件：`memory/master-skills-exploration/state.json`
+- 状态文件：`xiaomu_diary/exploration/state.json`
 
 ### 2. 框架逻辑思考
 - 随时思考认知框架的发展
